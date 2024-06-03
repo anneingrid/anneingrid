@@ -1,7 +1,7 @@
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
   - 🔭 I’m currently a student of Computer Science at Ulbra Palmas.
-  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 🌱 I’m currently learning Machine Learning and Mobile Development
   - 😄 Pronouns: She / Her
   - ⚡ Fun fact: My nickname is bigger than my name
   
