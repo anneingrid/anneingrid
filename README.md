@@ -3,7 +3,6 @@
   - 🔭 I’m currently a student of Computer Science at Ulbra Palmas.
   - 🌱 I’m currently learning Machine Learning and Mobile Development
   - 😄 Pronouns: She / Her
-  - ⚡ Fun fact: My nickname is bigger than my name
   
   #### 📫 How to reach me:
   
